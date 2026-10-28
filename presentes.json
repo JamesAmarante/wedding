@@ -115,7 +115,7 @@
         {
           "name": "Air fryer",
           "image": "assets/presentes/air-fryer.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Forno elétrico",
@@ -180,7 +180,7 @@
       "name": "UTENSÍLIOS DE COZINHA",
       "products": [
         {
-          "name": "Jogo de panelas de cerâmica",
+          "name": "Jogo de panelas de cerâmica preta",
           "image": "assets/presentes/jogo-de-panelas-de-ceramica.jpg",
           "free": true
         },
@@ -190,7 +190,7 @@
           "free": true
         },
         {
-          "name": "Panela de pressão de cerâmica",
+          "name": "Panela de pressão de cerâmica preta",
           "image": "assets/presentes/panela-de-pressao-de-ceramica.jpg",
           "free": true
         },
@@ -205,7 +205,7 @@
           "free": true
         },
         {
-          "name": "Kit de conchas de silicone",
+          "name": "Kit de conchas de silicone preta com cabo de inox",
           "image": "assets/presentes/kit-de-conchas-de-silicone.jpg",
           "free": true
         },
@@ -319,12 +319,12 @@
         {
           "name": "Jarra",
           "image": "assets/presentes/jarra.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Manteigueira",
           "image": "assets/presentes/manteigueira.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Jogo americano",
