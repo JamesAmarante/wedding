@@ -14,7 +14,7 @@
           "free": true
         },
         {
-          "name": "Cama",
+          "name": "Cama King",
           "image": "assets/presentes/cama.jpg",
           "free": true
         },
@@ -245,9 +245,9 @@
           "free": true
         },
         {
-          "name": "Lixeira inox cozinha",
+          "name": "Saleiro",
           "image": "assets/presentes/lixeira-inox-cozinha.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Kit de pia",
@@ -262,7 +262,7 @@
         {
           "name": "Panos de prato",
           "image": "assets/presentes/panos-de-prato.jpg",
-          "free": true
+          "free": false
         }
       ]
     }
