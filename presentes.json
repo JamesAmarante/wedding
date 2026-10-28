@@ -130,7 +130,7 @@
         {
           "name": "Panela de pressão elétrica",
           "image": "assets/presentes/panela-de-pressao-eletrica.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Panela de arroz elétrica",
