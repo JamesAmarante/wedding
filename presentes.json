@@ -312,11 +312,6 @@
           "free": true
         },
         {
-          "name": "Saladeira",
-          "image": "assets/presentes/saladeira.jpg",
-          "free": true
-        },
-        {
           "name": "Tigelas",
           "image": "assets/presentes/tigelas.jpg",
           "free": true
@@ -366,11 +361,6 @@
         {
           "name": "Edredom",
           "image": "assets/presentes/edredom.jpg",
-          "free": true
-        },
-        {
-          "name": "Cobertor casal",
-          "image": "",
           "free": true
         },
         {
