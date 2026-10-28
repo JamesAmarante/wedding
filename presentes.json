@@ -1,0 +1,433 @@
+[
+  {
+    "category": {
+      "name": "MÓVEIS",
+      "products": [
+        {
+          "name": "Sofá",
+          "image": "assets/presentes/sofa.jpg",
+          "free": true
+        },
+        {
+          "name": "Painel",
+          "image": "assets/presentes/painel.jpg",
+          "free": true
+        },
+        {
+          "name": "Cama",
+          "image": "assets/presentes/cama.jpg",
+          "free": true
+        },
+        {
+          "name": "Guarda-roupa",
+          "image": "assets/presentes/guarda-roupa.jpg",
+          "free": true
+        },
+        {
+          "name": "Mesa",
+          "image": "assets/presentes/mesa.jpg",
+          "free": false
+        },
+        {
+          "name": "Armário de cozinha",
+          "image": "assets/presentes/armario-de-cozinha.jpg",
+          "free": true
+        }
+      ]
+    }
+  },
+  {
+    "category": {
+      "name": "ELETRODOMÉSTICOS",
+      "products": [
+        {
+          "name": "TV",
+          "image": "assets/presentes/tv.jpg",
+          "free": false
+        },
+        {
+          "name": "Geladeira",
+          "image": "assets/presentes/geladeira.jpg",
+          "free": true
+        },
+        {
+          "name": "Fogão",
+          "image": "assets/presentes/fogao.jpg",
+          "free": false
+        },
+        {
+          "name": "Máquina de lavar",
+          "image": "assets/presentes/maquina-de-lavar.jpg",
+          "free": false
+        },
+        {
+          "name": "Micro-ondas",
+          "image": "assets/presentes/microondas.jpg",
+          "free": false
+        },
+        {
+          "name": "Ar-condicionado",
+          "image": "assets/presentes/ar-condicionado.jpg",
+          "free": true
+        },
+        {
+          "name": "Gelar água",
+          "image": "assets/presentes/gelar-agua.jpg",
+          "free": true
+        },
+        {
+          "name": "Depurador de ar",
+          "image": "assets/presentes/depurador-de-ar.jpg",
+          "free": true
+        },
+        {
+          "name": "Ventilador",
+          "image": "assets/presentes/ventilador.jpg",
+          "free": true
+        },
+        {
+          "name": "Robô aspirador",
+          "image": "assets/presentes/robo-aspirador.jpg",
+          "free": true
+        },
+        {
+          "name": "Ferro de passar",
+          "image": "assets/presentes/ferro-de-passar.jpg",
+          "free": true
+        }
+      ]
+    }
+  },
+  {
+    "category": {
+      "name": "ELETROPORTÁTEIS",
+      "products": [
+        {
+          "name": "Cafeteira expresso",
+          "image": "assets/presentes/cafeteira-expresso.jpg",
+          "free": true
+        },
+        {
+          "name": "Cafeteira",
+          "image": "assets/presentes/cafeteira.jpg",
+          "free": true
+        },
+        {
+          "name": "Air fryer",
+          "image": "assets/presentes/air-fryer.jpg",
+          "free": true
+        },
+        {
+          "name": "Forno elétrico",
+          "image": "assets/presentes/forno-eletrico.jpg",
+          "free": true
+        },
+        {
+          "name": "Churrasqueira elétrica",
+          "image": "assets/presentes/churrasqueira-eletrica.jpg",
+          "free": true
+        },
+        {
+          "name": "Panela de pressão elétrica",
+          "image": "assets/presentes/panela-de-pressao-eletrica.jpg",
+          "free": true
+        },
+        {
+          "name": "Panela de arroz elétrica",
+          "image": "assets/presentes/panela-de-arroz-eletrica.jpg",
+          "free": true
+        },
+        {
+          "name": "Processador de alimentos",
+          "image": "assets/presentes/processador-de-alimentos.jpg",
+          "free": true
+        },
+        {
+          "name": "Chaleira elétrica",
+          "image": "assets/presentes/chaleira-eletrica.jpg",
+          "free": true
+        },
+        {
+          "name": "Liquidificador",
+          "image": "assets/presentes/liquidificador.jpg",
+          "free": true
+        },
+        {
+          "name": "Batedeira",
+          "image": "assets/presentes/batedeira.jpg",
+          "free": true
+        },
+        {
+          "name": "Pipoqueira",
+          "image": "assets/presentes/pipoqueira.jpg",
+          "free": true
+        },
+        {
+          "name": "Espremedor de sucos",
+          "image": "assets/presentes/espremedor-de-sucos.jpg",
+          "free": true
+        },
+        {
+          "name": "Sanduicheira",
+          "image": "assets/presentes/sanduicheira.jpg",
+          "free": true
+        }
+      ]
+    }
+  },
+  {
+    "category": {
+      "name": "UTENSÍLIOS DE COZINHA",
+      "products": [
+        {
+          "name": "Jogo de panelas de cerâmica",
+          "image": "assets/presentes/jogo-de-panelas-de-ceramica.jpg",
+          "free": true
+        },
+        {
+          "name": "Frigideiras de cerâmica",
+          "image": "assets/presentes/frigideiras-de-ceramica.jpg",
+          "free": true
+        },
+        {
+          "name": "Panela de pressão de cerâmica",
+          "image": "assets/presentes/panela-de-pressao-de-ceramica.jpg",
+          "free": true
+        },
+        {
+          "name": "Formas para bolo",
+          "image": "assets/presentes/formas-para-bolo.jpg",
+          "free": true
+        },
+        {
+          "name": "Assadeiras",
+          "image": "assets/presentes/assadeiras.jpg",
+          "free": true
+        },
+        {
+          "name": "Kit de conchas de silicone",
+          "image": "assets/presentes/kit-de-conchas-de-silicone.jpg",
+          "free": true
+        },
+        {
+          "name": "Kit de conchas",
+          "image": "assets/presentes/kit-de-conchas.jpg",
+          "free": true
+        },
+        {
+          "name": "Kit de facas",
+          "image": "assets/presentes/kit-de-facas.jpg",
+          "free": true
+        },
+        {
+          "name": "Cepo com facas",
+          "image": "assets/presentes/cepo-com-facas.jpg",
+          "free": true
+        },
+        {
+          "name": "Porta-tempero rotatório",
+          "image": "assets/presentes/porta-tempero-rotatorio.jpg",
+          "free": true
+        },
+        {
+          "name": "Potes herméticos de vidro",
+          "image": "assets/presentes/potes-hermeticos-de-vidro.jpg",
+          "free": true
+        },
+        {
+          "name": "Potes de vidro para guardar alimentos",
+          "image": "assets/presentes/potes-de-vidro-para-alimentos.jpg",
+          "free": true
+        },
+        {
+          "name": "Porta-mantimentos inox",
+          "image": "assets/presentes/porta-mantimentos-inox.jpg",
+          "free": true
+        },
+        {
+          "name": "Lixeira inox cozinha",
+          "image": "assets/presentes/lixeira-inox-cozinha.jpg",
+          "free": true
+        },
+        {
+          "name": "Kit de pia",
+          "image": "assets/presentes/kit-de-pia.jpg",
+          "free": true
+        },
+        {
+          "name": "Escorredor de louças",
+          "image": "assets/presentes/escorredor-de-loucas.jpg",
+          "free": true
+        },
+        {
+          "name": "Panos de prato",
+          "image": "assets/presentes/panos-de-prato.jpg",
+          "free": true
+        }
+      ]
+    }
+  },
+  {
+    "category": {
+      "name": "MESA & SERVIR",
+      "products": [
+        {
+          "name": "Aparelho de jantar",
+          "image": "assets/presentes/aparelho-de-jantar.jpg",
+          "free": true
+        },
+        {
+          "name": "Faqueiro",
+          "image": "assets/presentes/faqueiro.jpg",
+          "free": true
+        },
+        {
+          "name": "Jogo de xícaras e pires",
+          "image": "assets/presentes/jogo-de-xicaras-e-pires.jpg",
+          "free": true
+        },
+        {
+          "name": "Jogo de sobremesa",
+          "image": "assets/presentes/jogo-de-sobremesa.jpg",
+          "free": true
+        },
+        {
+          "name": "Taças de vinho",
+          "image": "assets/presentes/tacas-de-vinho.jpg",
+          "free": true
+        },
+        {
+          "name": "Taças de champanhe",
+          "image": "assets/presentes/tacas-de-champanhe.jpg",
+          "free": true
+        },
+        {
+          "name": "Boleira de vidro",
+          "image": "assets/presentes/boleira-de-vidro.jpg",
+          "free": true
+        },
+        {
+          "name": "Fruteira de vidro",
+          "image": "assets/presentes/fruteira-de-vidro.jpg",
+          "free": true
+        },
+        {
+          "name": "Saladeira",
+          "image": "assets/presentes/saladeira.jpg",
+          "free": true
+        },
+        {
+          "name": "Tigelas",
+          "image": "assets/presentes/tigelas.jpg",
+          "free": true
+        },
+        {
+          "name": "Jarra",
+          "image": "assets/presentes/jarra.jpg",
+          "free": true
+        },
+        {
+          "name": "Manteigueira",
+          "image": "assets/presentes/manteigueira.jpg",
+          "free": true
+        },
+        {
+          "name": "Saleiro",
+          "image": "",
+          "free": true
+        },
+        {
+          "name": "Jogo americano",
+          "image": "assets/presentes/jogo-americano.jpg",
+          "free": true
+        }
+      ]
+    }
+  },
+  {
+    "category": {
+      "name": "CAMA",
+      "products": [
+        {
+          "name": "Cobre-leito cama king",
+          "image": "assets/presentes/cobre-leito-king.jpg",
+          "free": true
+        },
+        {
+          "name": "Lençol de cama king",
+          "image": "assets/presentes/lencol-king.jpg",
+          "free": true
+        },
+        {
+          "name": "Saia de cama box king",
+          "image": "assets/presentes/saia-de-cama-box-king.jpg",
+          "free": true
+        },
+        {
+          "name": "Edredom",
+          "image": "assets/presentes/edredom.jpg",
+          "free": true
+        },
+        {
+          "name": "Cobertor casal",
+          "image": "",
+          "free": true
+        },
+        {
+          "name": "Travesseiros",
+          "image": "assets/presentes/travesseiros.jpg",
+          "free": true
+        }
+      ]
+    }
+  },
+  {
+    "category": {
+      "name": "BANHO",
+      "products": [
+        {
+          "name": "Jogo de toalhas",
+          "image": "assets/presentes/jogo-de-toalhas.jpg",
+          "free": true
+        },
+        {
+          "name": "Kit banheiro",
+          "image": "assets/presentes/kit-banheiro.jpg",
+          "free": true
+        },
+        {
+          "name": "Lixeira inox banheiro",
+          "image": "assets/presentes/lixeira-inox-banheiro.jpg",
+          "free": true
+        }
+      ]
+    }
+  },
+  {
+    "category": {
+      "name": "DECORAÇÃO",
+      "products": [
+        {
+          "name": "Cortinas de sala",
+          "image": "assets/presentes/cortinas-de-sala.jpg",
+          "free": true
+        },
+        {
+          "name": "Cortinas para quarto",
+          "image": "assets/presentes/cortinas-para-quarto.jpg",
+          "free": true
+        },
+        {
+          "name": "Almofadas",
+          "image": "assets/presentes/almofadas.jpg",
+          "free": true
+        },
+        {
+          "name": "Tapetes",
+          "image": "assets/presentes/tapetes.jpg",
+          "free": true
+        }
+      ]
+    }
+  }
+]
