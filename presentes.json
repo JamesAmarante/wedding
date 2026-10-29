@@ -14,7 +14,7 @@
           "free": true
         },
         {
-          "name": "Cama King",
+          "name": "Cama Queen",
           "image": "assets/presentes/cama.jpg",
           "free": true
         },
@@ -339,17 +339,17 @@
       "name": "CAMA",
       "products": [
         {
-          "name": "Cobre-leito cama king",
+          "name": "Cobre-leito cama queen",
           "image": "assets/presentes/cobre-leito-king.jpg",
           "free": true
         },
         {
-          "name": "Lençol de cama king",
+          "name": "Lençol de cama queen",
           "image": "assets/presentes/lencol-king.jpg",
           "free": true
         },
         {
-          "name": "Saia de cama box king",
+          "name": "Saia de cama box queen",
           "image": "assets/presentes/saia-de-cama-box-king.jpg",
           "free": true
         },
