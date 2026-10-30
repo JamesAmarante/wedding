@@ -120,7 +120,7 @@
         {
           "name": "Forno elétrico",
           "image": "assets/presentes/forno-eletrico.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Churrasqueira elétrica",
