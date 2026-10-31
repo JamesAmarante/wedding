@@ -31,7 +31,7 @@
         {
           "name": "Armário de cozinha",
           "image": "assets/presentes/armario-de-cozinha.jpg",
-          "free": true
+          "free": false
         }
       ]
     }
@@ -73,7 +73,7 @@
         {
           "name": "Gelar água",
           "image": "assets/presentes/gelar-agua.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Depurador de ar",
