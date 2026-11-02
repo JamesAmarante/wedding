@@ -11,7 +11,7 @@
         {
           "name": "Painel",
           "image": "assets/presentes/painel.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Cama Queen",
@@ -78,7 +78,7 @@
         {
           "name": "Depurador de ar",
           "image": "assets/presentes/depurador-de-ar.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Ventilador",
