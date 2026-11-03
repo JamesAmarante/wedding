@@ -140,12 +140,12 @@
         {
           "name": "Processador de alimentos",
           "image": "assets/presentes/processador-de-alimentos.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Chaleira elétrica",
           "image": "assets/presentes/chaleira-eletrica.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Liquidificador",
