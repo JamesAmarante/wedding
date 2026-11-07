@@ -135,7 +135,7 @@
         {
           "name": "Panela de arroz elétrica",
           "image": "assets/presentes/panela-de-arroz-eletrica.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Processador de alimentos",
@@ -182,7 +182,7 @@
         {
           "name": "Jogo de panelas de cerâmica preta",
           "image": "assets/presentes/jogo-de-panelas-de-ceramica.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Frigideiras de cerâmica",
