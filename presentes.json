@@ -155,7 +155,7 @@
         {
           "name": "Batedeira",
           "image": "assets/presentes/batedeira.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Pipoqueira",
