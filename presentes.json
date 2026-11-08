@@ -150,7 +150,7 @@
         {
           "name": "Liquidificador",
           "image": "assets/presentes/liquidificador.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Batedeira",
