@@ -105,7 +105,7 @@
         {
           "name": "Cafeteira expresso",
           "image": "assets/presentes/cafeteira-expresso.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Cafeteira",
