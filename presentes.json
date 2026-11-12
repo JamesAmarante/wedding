@@ -160,7 +160,7 @@
         {
           "name": "Pipoqueira",
           "image": "assets/presentes/pipoqueira.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Espremedor de sucos",
@@ -341,7 +341,7 @@
         {
           "name": "Cobre-leito cama queen",
           "image": "assets/presentes/cobre-leito-king.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Lençol de cama queen",
