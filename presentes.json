@@ -197,7 +197,7 @@
         {
           "name": "Formas para bolo",
           "image": "assets/presentes/formas-para-bolo.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Assadeiras",
