@@ -252,7 +252,7 @@
         {
           "name": "Kit de pia",
           "image": "assets/presentes/kit-de-pia.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Escorredor de louças",
@@ -341,7 +341,7 @@
         {
           "name": "Cobre-leito cama queen",
           "image": "assets/presentes/cobre-leito-king.jpg",
-          "free": false
+          "free": true
         },
         {
           "name": "Lençol de cama queen",
