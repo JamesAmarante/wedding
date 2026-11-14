@@ -230,12 +230,12 @@
           "free": true
         },
         {
-          "name": "Potes herméticos de vidro",
+          "name": "Kit de potes herméticos de vidro",
           "image": "assets/presentes/potes-hermeticos-de-vidro.jpg",
           "free": true
         },
         {
-          "name": "Potes de vidro para guardar alimentos",
+          "name": "Kit potes de vidro para guardar alimentos",
           "image": "assets/presentes/potes-de-vidro-para-alimentos.jpg",
           "free": true
         },
@@ -289,7 +289,7 @@
         {
           "name": "Jogo de sobremesa",
           "image": "assets/presentes/jogo-de-sobremesa.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Taças de vinho",
