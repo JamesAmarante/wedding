@@ -237,7 +237,7 @@
         {
           "name": "Kit potes de vidro para guardar alimentos",
           "image": "assets/presentes/potes-de-vidro-para-alimentos.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Kit porta-mantimentos inox",
