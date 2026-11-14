@@ -165,7 +165,7 @@
         {
           "name": "Espremedor de sucos",
           "image": "assets/presentes/espremedor-de-sucos.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Sanduicheira",
