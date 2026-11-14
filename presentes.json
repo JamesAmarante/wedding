@@ -202,7 +202,7 @@
         {
           "name": "Assadeiras",
           "image": "assets/presentes/assadeiras.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Kit de conchas de silicone preta com cabo de inox",
