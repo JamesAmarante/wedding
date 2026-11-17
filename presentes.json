@@ -125,7 +125,7 @@
         {
           "name": "Churrasqueira elétrica",
           "image": "assets/presentes/churrasqueira-eletrica.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Panela de pressão elétrica",
