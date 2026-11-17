@@ -274,7 +274,7 @@
         {
           "name": "Aparelho de jantar",
           "image": "assets/presentes/aparelho-de-jantar.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Faqueiro",
