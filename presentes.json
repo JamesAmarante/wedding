@@ -83,7 +83,7 @@
         {
           "name": "Ventilador",
           "image": "assets/presentes/ventilador.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Robô aspirador",
