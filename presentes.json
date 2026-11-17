@@ -309,12 +309,12 @@
         {
           "name": "Fruteira de vidro",
           "image": "assets/presentes/fruteira-de-vidro.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Tigelas",
           "image": "assets/presentes/tigelas.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Jarra",
@@ -378,12 +378,12 @@
         {
           "name": "Kit banheiro",
           "image": "assets/presentes/kit-banheiro.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Kit de banheiro - Lixeira inox banheiro",
           "image": "assets/presentes/lixeira-inox-banheiro.jpg",
-          "free": true
+          "free": false
         }
       ]
     }
@@ -410,7 +410,7 @@
         {
           "name": "Tapetes",
           "image": "assets/presentes/tapetes.jpg",
-          "free": true
+          "free": false
         }
       ]
     }
