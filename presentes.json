@@ -110,7 +110,7 @@
         {
           "name": "Cafeteira",
           "image": "assets/presentes/cafeteira.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Air fryer",
