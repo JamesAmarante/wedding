@@ -170,7 +170,7 @@
         {
           "name": "Sanduicheira",
           "image": "assets/presentes/sanduicheira.jpg",
-          "free": true
+          "free": false
         }
       ]
     }
