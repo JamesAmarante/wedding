@@ -32,7 +32,17 @@
           "name": "Armário de cozinha",
           "image": "assets/presentes/armario-de-cozinha.jpg",
           "free": false
-        }
+        },
+        {
+          "name": "Cabeceira de Cama",
+          "image": "asset",
+          "free": true
+        },
+        {
+          "name": "Jogo de criado mudo",
+          "image": "assets/",
+          "free": true
+        },
       ]
     }
   },
@@ -88,6 +98,11 @@
         {
           "name": "Robô aspirador",
           "image": "assets/presentes/robo-aspirador.jpg",
+          "free": true
+        },
+        {
+          "name": "Aspirador vertical",
+          "image": "assets/",
           "free": true
         },
         {
@@ -284,7 +299,7 @@
         {
           "name": "Jogo de xícaras e pires",
           "image": "assets/presentes/jogo-de-xicaras-e-pires.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Jogo de sobremesa",
@@ -294,17 +309,17 @@
         {
           "name": "Taças de vinho",
           "image": "assets/presentes/tacas-de-vinho.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Taças de champanhe",
           "image": "assets/presentes/tacas-de-champanhe.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Boleira de vidro",
           "image": "assets/presentes/boleira-de-vidro.jpg",
-          "free": true
+          "free": false
         },
         {
           "name": "Fruteira de vidro",
