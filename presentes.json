@@ -344,7 +344,7 @@
         {
           "name": "Jogo americano",
           "image": "assets/presentes/jogo-americano.jpg",
-          "free": true
+          "free": false
         }
       ]
     }
